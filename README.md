@@ -1,4 +1,4 @@
-# NTU Report LaTeX template
+# NTU Report LaTeX Template
 A LaTeX template for Nanyang Technological University students to write reports. This template is 
 adopted from the template provided by the School of Computer Science and Engineering for Final 
 Year Projects.
